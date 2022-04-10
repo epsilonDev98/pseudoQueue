@@ -16,3 +16,5 @@ mvn spring-boot:run
 
 *App is deployed to heroku PFA of proof*
 https://pseduoqueue.herokuapp.com/
+![picture alt](https://github.com/epsilonDev98/pseudoQueue/blob/master/ss1.PNG)
+![picture alt](https://github.com/epsilonDev98/pseudoQueue/blob/master/ss2.PNG)
