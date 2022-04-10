@@ -12,3 +12,7 @@
 mvn spring-boot:run
 
 * use mvn clean command for cleaning plugins
+
+
+*App is deployed to heroku PFA of proof*
+https://pseduoqueue.herokuapp.com/
